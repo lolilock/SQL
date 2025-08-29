@@ -12,4 +12,30 @@ Hello! I'm **Dawid**, currently learning SQL from scratch. This repository docum
 - **Mistakes & Solutions**: A honest record of challenges and how I overcome them.
 
 ## 🚀 Current Learning Path
+- Section 1: Introduction
+- Section 2: Querying Data
+- Section 3: Data Conversion, Validation, and Arithmetic Operations
+- Section 4: Grouping Data, Conditional Columns, and SQL Functions
+- Section 5: Joins and Subqueries
 
+## 🌟 Recent Progress
+- ✅ Completed First SQLZoo quiz
+- ✅ Learned Section 4: Grouping Data, Conditional Columns, and SQL Functions
+- 📝 Currently learning Section 5: Joins and Subqueries
+
+## 🤝 Let's Learn Together!
+I'm happy to:
+- Connect with other SQL beginners
+- Share learning resources
+- Get feedback on my solutions
+- Learn from more experienced developers
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-śliwiński-356088381)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daw.sliwinskii@gmail.com)
+
+---
+
+⭐ **Feel free to star** if you're also learning SQL! | 🔄 **Check back** for regular updates on my progress!
+
+> 💡 *"The expert in anything was once a beginner."* - Let's learn together!
