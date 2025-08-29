@@ -12,3 +12,4 @@ Hello! I'm **Dawid**, currently learning SQL from scratch. This repository docum
 - **Mistakes & Solutions**: A honest record of challenges and how I overcome them.
 
 ## 🚀 Current Learning Path
+
