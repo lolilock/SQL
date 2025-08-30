@@ -105,3 +105,15 @@ Returns the first value that is not null
 
 „AVG” - average value. Can only be used for numeric data.
 Aggregate functions ignore fields with missing values (null).
+
+# Joins and Subqueries
+### 1) What is an "INNER JOIN" query?:
+An "INNER JOIN" query, i.e., an inner join, combines tables by showing their common part (matching records).  
+### 2) What is a "LEFT JOIN"?:
+It is a join that returns all records from the first (left) table and all matching records from the second (right) table.
+### 3) What is a "RIGHT JOIN"?:
+It is a join that works oppositely to the "LEFT JOIN".
+### 4) What is a "FULL JOIN"?:
+It is a join that returns all data from both sources.
+### 5) What is a "CROSS JOIN"?:
+It is a join that produces a result in the form of a Cartesian product. In this join, we do not specify a relationship.

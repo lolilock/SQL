@@ -96,3 +96,17 @@ liczbowych, ciągów tekstu i dat.
 - „COUNT(DISTINCT kolumna) - zwraca liczbę unikatowych rekordów w kolumnie.
 - „AVG” - średnia wartość. Może być stosowana wyłącznie dla danych liczbowych.
 Funkcje agregującej ignorują pola z brakiem wartości (null).
+
+# Złączenia i podzapytania
+### 1) Na czym polega zapytanie "INNER JOIN"?:
+Zapytanie „INNER JOIN”, czyli złączenie wewnętrze, łączy tabele pokazując ich część wspólną.  
+### 2) Na czym polega łączenie „LEFT JOIN”?:
+Jest to złączenie, która zwraca wszystkie rekordy z tabeli pierwszej i wszystkie które
+pasują z tabeli drugiej.
+### 3) Na czym polega łączenie „RIGHT JOIN”?:
+Jest to złączenie, które działa odwrotnie do łączenia wewnętrznego „LEFT JOIN”.
+### 4) Na czym polega łączenie „FULL JOIN”?:
+Jest to złączenie, które zwraca wszystkie dane z obu źródeł,
+### 5) Na czym polega łączenie „CROSS JOIN”?:
+Jest to złączenie dające wynik w postaci iloczynu kartezjańskiego. W tym połączeniu
+nie określamy relacji.
