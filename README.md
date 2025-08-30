@@ -20,8 +20,8 @@ Hello! I'm **Dawid**, currently learning SQL from scratch. This repository docum
 
 ## 🌟 Recent Progress
 - ✅ Completed First SQLZoo quiz
-- ✅ Learned Section 4: Grouping Data, Conditional Columns, and SQL Functions
-- 📝 Currently learning Section 5: Joins and Subqueries
+- ✅ Learned Section 5: Joins and Subqueries
+- 📝 Currently doing SQLZoo quiz
 
 ## 🤝 Let's Learn Together!
 I'm happy to:
@@ -31,7 +31,7 @@ I'm happy to:
 - Learn from more experienced developers
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawid-śliwiński-356088381)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daw-sliwinskii)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daw.sliwinskii@gmail.com)
 
 ---
