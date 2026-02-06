@@ -4,8 +4,7 @@ Baza danych jest uporządkowana zbiorem informacji.
 </p> <u>Przykłady:</u> </p>
 
 Lista zakupów;
-Historia wypożyczeń książek w bibliotece; 
-
+Historia wypożyczeń książek w bibliotece;                                               
 ### 2) Co można uznać za bazę danych?:
 Za bazę danych możemy uznać plik tekstowy lub skoroszyt Excela, są to bazy o
 strukturze płaskiej.
