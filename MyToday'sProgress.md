@@ -1,5 +1,5 @@
 # 7.02.2026
-## Version in Polsih:
+## Version in Polish:
 Powtórzyłem dzisiaj Konwersje, walidacje i działania arytmetyczne na danych, przy pomocy kursu. Sekcja ta zawiera takie polecenia jak: CAST, CONVERT, STR, ISNUMERIC, ISDATE, ISNULL, ROUND, FLOOR i CELING.
 Po skończeniu całej sekcji zrobiłem parę zadań z SQL Bolt, żeby podszkolić umiejętności i powtórzyć operatory, a także "popracować" na łączeniu paru tabeli przy użyciu INNER JOIN.
 ## Version in English:
@@ -8,7 +8,7 @@ Today, I reviewed data conversion, validation, and arithmetic operations as part
 Upon completing the section, I performed a series of exercises on SQL Bolt to refine my skills and reinforce my understanding of operators. Additionally, I focused on practicing multi-table queries using INNER JOIN.
 
 # 8.02.2026
-## Version in Polsih:
+## Version in Polish:
 Dnia dzisiejszego powtórzyłem następujące zagadnienia:
 Funkcje agregujące (SUM,MAX,COUNT,AVG)
 Grupowanie danych (Group by)
@@ -39,3 +39,10 @@ Joins: INNER, LEFT, RIGHT, and FULL JOIN for merging multi-table datasets.
 Null Handling: Utilizing IS NULL and IS NOT NULL operators.
 
 Boolean Logic: Applying AND / OR operators for complex filtering.
+
+# 8.02.2026
+## Version in Polish
+Dzisiaj zrobiłem tylko powtórke na SQLBolt zadań z poprzednich dni, a także zrobiłem jeden nowy dział, w którym nauczyłem się zamainy wartości i operacji arytmetycznych.
+
+## Version in English:
+Today, I performed only a review of tasks from previous days on SQLBolt, and I also completed one new section in which I learned about value replacement and arithmetic operations.
