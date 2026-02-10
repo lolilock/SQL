@@ -40,9 +40,16 @@ Null Handling: Utilizing IS NULL and IS NOT NULL operators.
 
 Boolean Logic: Applying AND / OR operators for complex filtering.
 
-# 8.02.2026
+# 9.02.2026
 ## Version in Polish
 Dzisiaj zrobiłem tylko powtórke na SQLBolt zadań z poprzednich dni, a także zrobiłem jeden nowy dział, w którym nauczyłem się zamainy wartości i operacji arytmetycznych.
 
 ## Version in English:
 Today, I performed only a review of tasks from previous days on SQLBolt, and I also completed one new section in which I learned about value replacement and arithmetic operations.
+
+# 10.02.2026
+## Version in Polish
+Dzień dzisiejszy spędziłem na powtarzania i utrwalaniu materiału i wiedzy z dni poprzednich.
+
+## Version in English:
+I spent today reviewing and consolidating the material and knowledge from previous days.
