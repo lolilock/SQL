@@ -117,3 +117,16 @@ It is a join that works oppositely to the "LEFT JOIN".
 It is a join that returns all data from both sources.
 ### 5) What is a "CROSS JOIN"?:
 It is a join that produces a result in the form of a Cartesian product. In this join, we do not specify a relationship.
+
+# Database Modifications
+### 1) Which command is used to create a table?
+The CREATE TABLE command is utilized for defining new relations within the database schema. It is important to note that newly created tables may require a metadata refresh in the database management interface to become visible. Furthermore, a table can be instantiated using the result set of a query from another table (CTAS - Create Table As Select).
+
+### 2) How to change a column's data type?
+To modify the data type of an existing attribute, the ALTER TABLE statement is used in conjunction with the ALTER COLUMN clause (or MODIFY depending on the specific SQL dialect).
+
+### 3) How to delete a column?
+A column is removed from a relation using the following syntax:
+
+ALTER TABLE table_name
+DROP COLUMN column_name;

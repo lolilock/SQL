@@ -109,3 +109,13 @@ Jest to złączenie, które zwraca wszystkie dane z obu źródeł,
 ### 5) Na czym polega łączenie „CROSS JOIN”?:
 Jest to złączenie dające wynik w postaci iloczynu kartezjańskiego. W tym połączeniu
 nie określamy relacji.
+
+# Modyfikacje w bazie danych
+### 1) Czego używamy do tworzenia tabeli? 
+Do tworzenia tabeli używa się polecenia CREATE TABLE. Trzeba pamiętać o tym, że dodana tabela będzie dopiero widoczna na liście po odświeżeniu widoku tabel. Tabele także można stworzyć przy użyciu wyniku zapytania z innej tabeli. 
+### 2) Jak zmienić typ danych w kolumnie?
+Zmiane typu danych w kolumnie wykonuje poprzez polecenie "alter table i alter column"
+### 3) Jak usunąć kolumne?
+Kolumne możemy usunąć poprzez polecenie"
+alter table
+drop column
