@@ -74,3 +74,10 @@ Dzisiaj zacząłem sekcje kursu związaną z Modyfikacjami w bazie danych. Naucz
 
 ## Version in English:
 Today, I began the course section related to Database Modifications. I learned about creating and modifying tables and views using CREATE and ALTER queries. Subsequently, as I do every day, I headed to SQLBolt to review the knowledge I had acquired.
+
+# SQL Progress Update – February 16, 2026
+## Version in Polish
+Dzisiaj Skonczyłem sekcje związaną z modyfikacjami w bazie danych. Dzieki temu nauczyłem się wprowadzania(INSERT INTO), modyfikacji(UPDATE) i usuwania(DELETE) danych, a także czyszczenia tabel (DELETE, TRUNCATE, DROP)
+
+## Version in English:
+Today, I concluded the section on Database Modifications. I have mastered data manipulation techniques including insertion (INSERT INTO), modification (UPDATE), and deletion (DELETE). Additionally, I explored different methods for data and table removal, specifically focusing on the distinctions between DELETE, TRUNCATE, and DROP.
