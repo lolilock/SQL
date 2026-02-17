@@ -81,3 +81,10 @@ Dzisiaj Skonczyłem sekcje związaną z modyfikacjami w bazie danych. Dzieki tem
 
 ## Version in English:
 Today, I concluded the section on Database Modifications. I have mastered data manipulation techniques including insertion (INSERT INTO), modification (UPDATE), and deletion (DELETE). Additionally, I explored different methods for data and table removal, specifically focusing on the distinctions between DELETE, TRUNCATE, and DROP.
+
+# SQL Progress Update – February 17, 2026
+## Version in Polish
+Dzisiaj nauczyłem się złączeń pionowych (UNION) i zapytań wewnętrznych (WITH). Następnie udałem się na SQLBolt i powtórzyłem dotychczasowe działy.
+
+## Version in English:
+Today’s session focused on set-based vertical operations (UNION) and the implementation of Common Table Expressions (CTEs) using the WITH clause. Following the theoretical modules, I completed a comprehensive review of previous sections on SQLBolt to ensure conceptual stability.
