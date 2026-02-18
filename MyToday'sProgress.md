@@ -88,3 +88,10 @@ Dzisiaj nauczyłem się złączeń pionowych (UNION) i zapytań wewnętrznych (W
 
 ## Version in English:
 Today’s session focused on set-based vertical operations (UNION) and the implementation of Common Table Expressions (CTEs) using the WITH clause. Following the theoretical modules, I completed a comprehensive review of previous sections on SQLBolt to ensure conceptual stability.
+
+# SQL Progress Update – February 18, 2026
+## Version in Polish
+Dzisiaj jedynie poćwiczyłem umiejętności na stronie SQLBolt.
+
+## Version in English:
+Today’s session was dedicated exclusively to practical application and skill consolidation through the SQLBolt interactive platform.
