@@ -95,3 +95,10 @@ Dzisiaj jedynie poćwiczyłem umiejętności na stronie SQLBolt.
 
 ## Version in English:
 Today’s session was dedicated exclusively to practical application and skill consolidation through the SQLBolt interactive platform.
+
+# SQL Progress Update – February 19, 2026
+## Version in Polish
+Dzisiaj nauczyłem się zmiennych lokalnych (DECLARE, SET), a następnie porobiłem kilka lekcji na SQLBolt.
+
+## Version in English:
+Today, I learned about local variables (DECLARE, SET) and subsequently completed several lessons on SQLBolt.
