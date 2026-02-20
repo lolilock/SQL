@@ -102,3 +102,10 @@ Dzisiaj nauczyłem się zmiennych lokalnych (DECLARE, SET), a następnie porobi�
 
 ## Version in English:
 Today, I learned about local variables (DECLARE, SET) and subsequently completed several lessons on SQLBolt.
+
+# SQL Progress Update – February 19, 2026
+## Version in Polish
+Dzisiaj nauczyłem się funkcji rankingowych (RANK, DENSE_RANK, ROW_NUMBER, NTILE), a także transakcji w SQL (BEGIN, SAVE, ROLLBACK, COMMIT).
+
+## Version in English:
+Today, I acquired proficiency in ranking functions—specifically RANK, DENSE_RANK, ROW_NUMBER, and NTILE—alongside the core principles of SQL transaction management, including BEGIN, SAVEPOINT, ROLLBACK, and COMMIT.
